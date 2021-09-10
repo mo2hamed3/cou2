@@ -1,0 +1,42 @@
+body{
+    background-image: url(logo.jpeg);
+    
+}
+.nav-item{
+  
+}
+.nav-item:hover{
+    background-color: wheat;
+}
+.bg-Warning{
+   ;
+}
+span{
+    font-size: larger;
+    font-weight: 1000;
+    color: rgb(172, 157, 21);
+}
+span:hover{
+    color: black;
+}
+nav{
+    background-color: rgb(0, 255, 170);
+    color: rgb(135, 172, 204);
+    font-size: large;
+    font-family:cursive;
+    color: white;  
+}
+nav:hover{
+    background-color: rgba(0, 34, 128, 0.658);
+}
+.align-text-top{
+    border-radius: 300px;
+}
+form img{
+    height: 200px;
+}
+
+    
+}
+
+}
